@@ -1,0 +1,14 @@
+name: abcairline
+title: abcairline
+username:
+account: valencialie11
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4198036
+bundleId: 4736623
+url: https://valencialie11.shinyapps.io/abcairline/
+when: 1624213926.44711
+lastSyncTime: 1624213926.44713
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .flutter-plugins|.flutter-plugins-dependencies|.metadata|.packages|assets/logo.jpeg|flutter_course.iml|lib/dbhelper.dart|lib/main.dart|pubspec.lock|pubspec.yaml|README.md|test/widget_test.dart|.dart_tool|.idea|android|build|ios
